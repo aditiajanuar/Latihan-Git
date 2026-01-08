@@ -8,8 +8,6 @@ package aritmatikaapp;
  *
  * @author Hype AMD
  */
-public class Operation {
-    public double add(double a, double b){
-    return a * b;
-    }
+public class AritmatikaApp {
+    
 }
