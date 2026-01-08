@@ -6,7 +6,11 @@ package aritmatikaapp;
 
 /**
  *
+<<<<<<< HEAD
  * @author Hype AMD
+=======
+ * @author Muhammad Kiki Priana
+>>>>>>> afd4a5783440e80ce579c9dba3453ed98cf8f0fb
  */
 public class AritmatikaApp {
     
